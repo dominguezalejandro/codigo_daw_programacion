@@ -1,3 +1,4 @@
+```java
 public class MiClase {
     public static void main(String[] args) {
        // Inicio del bloque de código
